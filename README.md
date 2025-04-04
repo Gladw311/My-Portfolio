@@ -1,6 +1,11 @@
 # My-Portfolio
 A simple portfolio that uses HTML,CSS and js to better represent what I have done as a coder.
 
+# 🚀 Live Demo
+
+Check it out here: [Live Site](https://gladwell.netlify.app/)
+
+
 # 🛠️ Projects Highlighted
 
 - Git & GitHub Practice – Version control workflows.
@@ -20,8 +25,4 @@ Feel free to connect with me:
 # ©️ License
 
 &copy; 2025 Gladwell. All rights reserved.
-
-# 🚀 Live Demo
-
-Check it out here: [Live Site](https://gladwell.netlify.app/)
 
