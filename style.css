@@ -1,0 +1,77 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background: #f4f4f4;
+    color: #333;
+  }
+  
+  header {
+    background: #0d1117;
+    color: white;
+    padding: 2rem 1rem;
+    text-align: center;
+    animation: fadeIn 2s ease-in;
+  }
+  
+  section {
+    padding: 2rem;
+    background: white;
+    margin: 1rem auto;
+    max-width: 800px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    animation: slideUp 1s ease-in-out;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: .5rem;
+  }
+  
+  .project {
+    margin-top: 1rem;
+  }
+  
+  .btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: .5rem 1rem;
+    background: #0366d6;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  form label {
+    display: block;
+    margin-top: 1rem;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+    padding: .5rem;
+    margin-top: .25rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  form button {
+    margin-top: 1rem;
+    padding: .5rem 1rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes slideUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
