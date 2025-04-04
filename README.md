@@ -21,3 +21,7 @@ Feel free to connect with me:
 
 &copy; 2025 Gladwell. All rights reserved.
 
+# 🚀 Live Demo
+
+Check it out here: [Live Site](https://gladwell.netlify.app/)
+
